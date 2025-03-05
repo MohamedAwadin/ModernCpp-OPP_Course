@@ -1,0 +1,3 @@
+/home/awadin/ITI_9Monthes/ITI_9Monthes/cpp/Moedrn_CPP/Project/build/CMakeFiles/Modern_CPP_Project.dir
+/home/awadin/ITI_9Monthes/ITI_9Monthes/cpp/Moedrn_CPP/Project/build/CMakeFiles/edit_cache.dir
+/home/awadin/ITI_9Monthes/ITI_9Monthes/cpp/Moedrn_CPP/Project/build/CMakeFiles/rebuild_cache.dir

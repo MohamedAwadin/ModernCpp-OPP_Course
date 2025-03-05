@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Modern_CPP_Project.dir/src/book.cpp.o CMakeFiles/Modern_CPP_Project.dir/src/library.cpp.o CMakeFiles/Modern_CPP_Project.dir/src/student.cpp.o CMakeFiles/Modern_CPP_Project.dir/src/teacher.cpp.o CMakeFiles/Modern_CPP_Project.dir/main.cpp.o -o Modern_CPP_Project 
